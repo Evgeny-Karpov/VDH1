@@ -8,6 +8,7 @@
   <ItemGroup>
     <Folder Include="Students\Andreas\" />
     <Folder Include="Students\DanielDaniel\" />
+    <Folder Include="Students\DanielHoyer\" />
     <Folder Include="Students\Dikshya\" />
     <Folder Include="Students\Evgeny\" />
     <Folder Include="Students\Kasper\" />
