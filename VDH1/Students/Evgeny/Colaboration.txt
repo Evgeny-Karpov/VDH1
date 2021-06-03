@@ -1,0 +1,9 @@
+﻿Clone- Man bruger clone til at oprette et lokalt kopi af repository, hvor man så kan branche for at tilføje ændringer
+
+Commit - Commit oprette en snapshot af ændringer med en besked som man kan bruge til at beskrive ændringer
+
+Push - Man uploader ens commit til repository
+
+Pull request - En anmodning om at få ens branch ind i master, bruges til at lave code review da man kan tilføje personer til at acepter ens pull request
+
+Merge - Efter ens pull request er blevet godkendt
