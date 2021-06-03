@@ -8,5 +8,7 @@ namespace VDH1.Students.Dikshya
 {
     class gitklasse1
     {
+        public string FullName { get; set; }
+       
     }
 }
