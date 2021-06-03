@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Students\Andreas\" />
     <Folder Include="Students\DanielDaniel\" />
     <Folder Include="Students\DanielHoyer\" />
     <Folder Include="Students\Evgeny\" />
